@@ -64,6 +64,7 @@ This type of counter is normally referred to as a Down Counter, (CTD). In a bina
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by: KEERTHANA S
 RegisterNumber:  212222230066
+
 UP COUNTERS CODE:
 module upcounters(clk,A);
 input clk;
@@ -102,6 +103,7 @@ DOWN COUNTER RTL FORM:
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER WAVEFORM:
 ![s 1](https://github.com/Keerthanasampathkumar/Exp-7-Synchornous-counters-/assets/119477890/359125bb-b45c-4049-8fc9-96e8ae9addc0)
+
 DOWN COUNTER WAVEFORM:
 ![s 2](https://github.com/Keerthanasampathkumar/Exp-7-Synchornous-counters-/assets/119477890/f9f47a8e-cfea-4f1a-87f6-377410564581)
 
