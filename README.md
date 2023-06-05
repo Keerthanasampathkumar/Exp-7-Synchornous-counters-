@@ -96,14 +96,16 @@ endmodule
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
 UP COUNTER RTL FORM:
+
 ![p 1](https://github.com/Keerthanasampathkumar/Exp-7-Synchornous-counters-/assets/119477890/274ef4fc-3e47-4c2a-adea-7756cd04b461)
+
 DOWN COUNTER RTL FORM:
+
 ![p 2](https://github.com/Keerthanasampathkumar/Exp-7-Synchornous-counters-/assets/119477890/e6351a4f-db44-4227-b77a-516888b842c8)
 
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER WAVEFORM:
 ![s 1](https://github.com/Keerthanasampathkumar/Exp-7-Synchornous-counters-/assets/119477890/359125bb-b45c-4049-8fc9-96e8ae9addc0)
-
 DOWN COUNTER WAVEFORM:
 ![s 2](https://github.com/Keerthanasampathkumar/Exp-7-Synchornous-counters-/assets/119477890/f9f47a8e-cfea-4f1a-87f6-377410564581)
 
